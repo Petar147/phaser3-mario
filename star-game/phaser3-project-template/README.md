@@ -1,6 +1,6 @@
 # Star Game using Phaser3
 
-
+![super-game](<https://github.com/Petar147/phaser3-mario/blob/master/star-game/phaser3-project-template/screenshots/Screenshot%20(60).png?raw=true>)
 
 This is a Phaser game written in JavaScript that involves a player character collecting stars while avoiding bombs. The game world consists of platforms that the player can jump on, and the player has basic left-right movement and jumping abilities.
 
@@ -10,6 +10,10 @@ The game world is created using static platforms, which are defined using the ph
 
 The stars are placed at fixed positions on the platforms and can be collected by the player when they come into contact with them. The score increases by 10 each time a star is collected. When all the stars have been collected, a new batch is generated and a bomb is placed at a random position on the screen.
 
+![super-game](<https://github.com/Petar147/phaser3-mario/blob/master/star-game/phaser3-project-template/screenshots/Screenshot%20(61).png?raw=true>)
+
 The player must avoid the bombs, which bounce around the screen and can cause the player to lose a life if they come into contact with them. If the player loses all their lives, the game is over.
 
 Overall, this is a simple but fun game that demonstrates the basics of game development using the Phaser game engine.
+
+![super-game](<https://github.com/Petar147/phaser3-mario/blob/master/star-game/phaser3-project-template/screenshots/Screenshot%20(62).png?raw=true>)
